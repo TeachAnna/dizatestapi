@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form {
+    width: 100%;
+}
+
+.pagination .active {
+    border: 2px solid #66BB6A !important;
+}
+
+.v-card {
+    background: transparent !important;
+    color: rgb(50, 49, 49) !important;
+}
